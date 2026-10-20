@@ -1,0 +1,68 @@
+
+{
+  "forecast": [
+    {
+      "id": 1,
+      "day": "Sunday",
+      "temperature": 59,
+      "temperatureUnit": "°F",
+      "condition": "Cloudy with showers",
+      "pop": 60,
+      "icon": "rain"
+    },
+    {
+      "id": 2,
+      "day": "Monday",
+      "temperature": 79,
+      "temperatureUnit": "°F",
+      "condition": "Sunny",
+      "pop": 0,
+      "icon": "sunny"
+    },
+    {
+      "id": 3,
+      "day": "Tuesday",
+      "temperature": 59,
+      "temperatureUnit": "°F",
+      "condition": "Partly sunny with rain showers",
+      "pop": 40,
+      "icon": "partly-cloudy-rain"
+    },
+    {
+      "id": 4,
+      "day": "Wednesday",
+      "temperature": 65,
+      "temperatureUnit": "°F",
+      "condition": "Partly sunny",
+      "pop": 20,
+      "icon": "partly-cloudy"
+    },
+    {
+      "id": 5,
+      "day": "Thursday",
+      "temperature": 59,
+      "temperatureUnit": "°F",
+      "condition": "Cloudy with possible thunderstorms",
+      "pop": 60,
+      "icon": "thunderstorm"
+    },
+    {
+      "id": 6,
+      "day": "Friday",
+      "temperature": 79,
+      "temperatureUnit": "°F",
+      "condition": "Sunny",
+      "pop": 0,
+      "icon": "sunny"
+    },
+    {
+      "id": 7,
+      "day": "Saturday",
+      "temperature": 79,
+      "temperatureUnit": "°F",
+      "condition": "Sunny",
+      "pop": 0,
+      "icon": "sunny"
+    }
+  ]
+}
